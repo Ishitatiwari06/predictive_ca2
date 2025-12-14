@@ -41,3 +41,25 @@ Silhouette Score
 Davies–Bouldin Index
 
 Calinski–Harabasz Index
+# 📈 Visualizations
+
+Actual vs Predicted plots (Regression)
+
+Confusion Matrix (Classification)
+
+Elbow Curve for K-Means
+
+PCA 2D and 3D cluster visualizations
+
+Cluster distribution using value counts
+# 🛠️ Technologies Used
+
+Python
+
+Pandas, NumPy
+
+Scikit-learn
+
+Matplotlib / Seaborn
+
+Streamlit
